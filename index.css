@@ -1,0 +1,34 @@
+#changeMe{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+    color:blueviolet;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 100px;
+    margin: 20px auto;
+}
+
+body{
+    text-align: center;
+}
+
+button{
+    box-shadow: 0 0 5px cyan,  0 0 25px cyan;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: aqua;
+    border-color: aliceblue;
+}
+button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan, 0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+
+}
+
+.btn1{
+    background-color: aquamarine;
+    border-radius: 10px;
+}
